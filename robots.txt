@@ -1,0 +1,4 @@
+user-agent: *
+allow: /
+
+sitemap: https://gpnews.github.io/starnews/sitemap_index.xml
